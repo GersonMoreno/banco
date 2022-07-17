@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8905c354-e200-492d-9f37-7f8b25c53e27": {
+      "ProjectGuid": "8905c354-e200-492d-9f37-7f8b25c53e27",
+      "DisplayName": "Banco",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "24f3d86b-66a9-4383-b1e8-f92965371ad3": {
+      "ProjectGuid": "24f3d86b-66a9-4383-b1e8-f92965371ad3",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "5c725ada-4a24-4be6-80f8-c1b24d6d3a80": {
+      "ProjectGuid": "5c725ada-4a24-4be6-80f8-c1b24d6d3a80",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "65a3ba87-30ac-46d7-b538-d59357b980b8": {
+      "ProjectGuid": "65a3ba87-30ac-46d7-b538-d59357b980b8",
+      "DisplayName": "ENTITY",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
