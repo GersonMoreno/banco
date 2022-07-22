@@ -1,0 +1,15 @@
+C:\Users\gerson\source\repos\Banco\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\gerson\source\repos\Banco\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\gerson\source\repos\Banco\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\gerson\source\repos\Banco\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\gerson\source\repos\Banco\DAL\bin\Debug\net5.0\ENTITY.dll
+C:\Users\gerson\source\repos\Banco\DAL\bin\Debug\net5.0\ENTITY.pdb
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\gerson\source\repos\Banco\DAL\obj\Debug\net5.0\DAL.pdb

@@ -26,3 +26,9 @@ C:\Users\gerson\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.dll
 C:\Users\gerson\source\repos\Banco\Banco\obj\Debug\net5.0\ref\Banco.dll
 C:\Users\gerson\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.pdb
 C:\Users\gerson\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.genruntimeconfig.cache
+C:\Users\gerson\source\repos\Banco\Banco\bin\Debug\net5.0\BLL.dll
+C:\Users\gerson\source\repos\Banco\Banco\bin\Debug\net5.0\DAL.dll
+C:\Users\gerson\source\repos\Banco\Banco\bin\Debug\net5.0\ENTITY.dll
+C:\Users\gerson\source\repos\Banco\Banco\bin\Debug\net5.0\BLL.pdb
+C:\Users\gerson\source\repos\Banco\Banco\bin\Debug\net5.0\ENTITY.pdb
+C:\Users\gerson\source\repos\Banco\Banco\bin\Debug\net5.0\DAL.pdb

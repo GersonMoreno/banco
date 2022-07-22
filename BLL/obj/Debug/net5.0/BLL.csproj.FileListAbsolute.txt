@@ -1,0 +1,17 @@
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\ENTITY.dll
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\gerson\source\repos\Banco\BLL\bin\Debug\net5.0\ENTITY.pdb
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\gerson\source\repos\Banco\BLL\obj\Debug\net5.0\BLL.pdb
